@@ -21,8 +21,8 @@ I am Yato 😃. A Student who loves technology and programming. I love to explor
 
 ## Github Stats📈
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=dracula" />
+   <img src="https://github-readme-stats.vercel.app/api?username=yato0-0&show_icons=true&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yato0-0&hide_progress=true&theme=dracula" />
 </div>
 
 
