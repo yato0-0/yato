@@ -17,14 +17,15 @@ I'm a self-taught passionate FullStack developer from India 🇮🇳
 I am Yato 😃. A Student who loves technology and programming. I love to explore and learn about new things.
 
 ###
-##
+###
 
+## Github Stats📈
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yato0-0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yato0-0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=dracula" />
 </div>
 
-##
+
 
 ###
 
@@ -33,6 +34,8 @@ I am Yato 😃. A Student who loves technology and programming. I love to explor
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
+
+## My Skill 🧑‍💻
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
