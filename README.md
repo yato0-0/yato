@@ -31,7 +31,7 @@ I am Yato 😃. A Student who loves technology and programming. I love to explor
 
 <br clear="both">
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="100" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
