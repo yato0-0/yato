@@ -1,17 +1,36 @@
-[![Hello](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&random=false&width=830&height=70&lines=Hello+There+%F0%9F%91%8B;This+is+Yato...;Nice+to+meet+you!)](https://git.io/typing-svg)
 
 ###
+###
+
+[![Hello](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&random=false&width=830&height=70&lines=Hello+There+%F0%9F%91%8B;This+is+Yato...;Nice+to+meet+you!)](https://git.io/typing-svg)
+
+
+<p align="center">
+<img src="https://cdn.dribbble.com/users/1454037/screenshots/5360170/apartments-animated-dribbler-top.gif" width="450" height="300">
+
+<h2> Hi, I'm Yato <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+
+I'm a self-taught passionate FullStack developer from India 🇮🇳
+
+**About me**
+
+I am Yato 😃. A Student who loves technology and programming. I love to explore and learn about new things.
+
+###
+##
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yato0-0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yato0-0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+##
+
 ###
 
 <br clear="both">
 
-<img align="left" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
