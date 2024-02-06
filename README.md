@@ -6,7 +6,7 @@
 
 
 <p align="center">
-<img src="https://cdn.dribbble.com/users/1454037/screenshots/5360170/apartments-animated-dribbler-top.gif" width="450" height="300">
+<img src="https://cdn.dribbble.com/users/1454037/screenshots/5360170/apartments-animated-dribbler-top.gif" width="350" height="200">
 
 <h2> Hi, I'm Yato <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
